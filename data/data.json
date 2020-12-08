@@ -1,0 +1,1477 @@
+{
+    "admin.0.connected": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605976060850,
+        "q": 0,
+        "ts": 1605976060850,
+        "user": "system.user.admin",
+        "val": "[1]noname"
+    },
+
+    "info.0.sysinfo.os.processes.running": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342018,
+        "q": 0,
+        "ts": 1605905342018,
+        "user": "system.user.admin",
+        "val": 4
+    },
+    "info.0.sysinfo.os.processes.sleeping": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342020,
+        "q": 0,
+        "ts": 1605905342020,
+        "user": "system.user.admin",
+        "val": 116
+    },
+    "info.0.sysinfo.os.processes.unknown": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342022,
+        "q": 0,
+        "ts": 1605905342022,
+        "user": "system.user.admin",
+        "val": 0
+    },
+    "info.0.sysinfo.os.users": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905340438,
+        "q": 0,
+        "ts": 1605905340438,
+        "user": "system.user.admin",
+        "val": "[{\"user\":\"pi\",\"tty\":\"tty7\",\"date\":\"2020-11-18\",\"time\":\"23:16\",\"ip\":\":0\",\"command\":\"/usr/bin/lxsession -s LXDE-pi -e LXDE\"},{\"user\":\"pi\",\"tty\":\"tty1\",\"date\":\"2020-11-18\",\"time\":\"23:16\",\"ip\":\"\",\"command\":\"-bash\"},{\"user\":\"pi\",\"tty\":\"pts/1\",\"date\":\"2020-11-20\",\"time\":\"21:28\",\"ip\":\"10.0.0.3\",\"command\":\"sshd: pi [priv]\"}]"
+    },
+    "info.0.sysinfo.os.versions.gcc": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342739,
+        "q": 0,
+        "ts": 1605905342739,
+        "user": "system.user.admin",
+        "val": "8.3.0"
+    },
+    "info.0.sysinfo.os.versions.git": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "2.20.1"
+    },
+    "info.0.sysinfo.os.versions.java": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342738,
+        "q": 0,
+        "ts": 1605905342738,
+        "user": "system.user.admin",
+        "val": "11.0.9"
+    },
+    "info.0.sysinfo.os.versions.kernel": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342733,
+        "q": 0,
+        "ts": 1605905342733,
+        "user": "system.user.admin",
+        "val": "5.4.72-v7l+"
+    },
+    "info.0.sysinfo.os.versions.node": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "10.23.0"
+    },
+    "info.0.sysinfo.os.versions.npm": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "6.14.8"
+    },
+    "info.0.sysinfo.os.versions.openssl": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342733,
+        "q": 0,
+        "ts": 1605905342733,
+        "user": "system.user.admin",
+        "val": "1.1.1g"
+    },
+    "info.0.sysinfo.os.versions.perl": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342738,
+        "q": 0,
+        "ts": 1605905342738,
+        "user": "system.user.admin",
+        "val": "5.28.1"
+    },
+    "info.0.sysinfo.os.versions.pip": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342738,
+        "q": 0,
+        "ts": 1605905342738,
+        "user": "system.user.admin",
+        "val": "18.1"
+    },
+    "info.0.sysinfo.os.versions.python": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342738,
+        "q": 0,
+        "ts": 1605905342738,
+        "user": "system.user.admin",
+        "val": "2.7.16"
+    },
+    "info.0.sysinfo.os.versions.python3": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342738,
+        "q": 0,
+        "ts": 1605905342738,
+        "user": "system.user.admin",
+        "val": "3.7.3"
+    },
+    "info.0.sysinfo.os.versions.systemOpenssl": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "1.1.1d"
+    },
+    "info.0.sysinfo.os.versions.systemOpensslLib": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "OpenSSL"
+    },
+    "info.0.sysinfo.os.versions.v8": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905342734,
+        "q": 0,
+        "ts": 1605905342734,
+        "user": "system.user.admin",
+        "val": "6.8.275.32-node.59"
+    },
+    "info.0.sysinfo.system.hardware.model": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905340915,
+        "q": 0,
+        "ts": 1605905340915,
+        "user": "system.user.admin",
+        "val": "BCM2711"
+    },
+    "info.0.sysinfo.system.hardware.serial": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905340915,
+        "q": 0,
+        "ts": 1605905340915,
+        "user": "system.user.admin",
+        "val": "10000000a9f06577"
+    },
+    "info.0.sysinfo.system.hardware.version": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905340915,
+        "q": 0,
+        "ts": 1605905340915,
+        "user": "system.user.admin",
+        "val": "c03112"
+    },
+    "info.0.uuid": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905341313,
+        "q": 0,
+        "ts": 1605982738675,
+        "user": "system.user.admin",
+        "val": "ded31274faee64d31374aa68a88a44bbe676e0aa386253c6e39f66befc3143b7"
+    },
+    "mihome.0.info.connection": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976053595,
+        "q": 0,
+        "ts": 1605976058078,
+        "user": "system.user.admin",
+        "val": false
+    },
+    "system.adapter.admin.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605905329455,
+        "q": 0,
+        "ts": 1605983827081,
+        "val": true
+    },
+    "system.adapter.admin.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605905329470,
+        "q": 0,
+        "ts": 1605905329470,
+        "val": false
+    },
+    "system.adapter.admin.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605905329456,
+        "q": 0,
+        "ts": 1605983827081,
+        "val": true
+    },
+    "system.adapter.admin.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827090,
+        "q": 0,
+        "ts": 1605983827090,
+        "val": 0.07
+    },
+    "system.adapter.admin.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827090,
+        "q": 0,
+        "ts": 1605983827090,
+        "val": 194.46
+    },
+    "system.adapter.admin.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827082,
+        "q": 0,
+        "ts": 1605983827082,
+        "val": 2
+    },
+    "system.adapter.admin.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827083,
+        "q": 0,
+        "ts": 1605983827083,
+        "val": 0
+    },
+    "system.adapter.admin.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605905329455,
+        "q": 0,
+        "ts": 1605905329455,
+        "val": "info"
+    },
+    "system.adapter.admin.0.logging": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605974922733,
+        "q": 0,
+        "ts": 1605974922733,
+        "val": true
+    },
+    "system.adapter.admin.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605982747040,
+        "q": 0,
+        "ts": 1605983827082,
+        "val": 33.71
+    },
+    "system.adapter.admin.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827082,
+        "q": 0,
+        "ts": 1605983827082,
+        "val": 27.48
+    },
+    "system.adapter.admin.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983812082,
+        "q": 0,
+        "ts": 1605983827081,
+        "val": 79.45
+    },
+    "system.adapter.admin.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605976086786,
+        "q": 0,
+        "ts": 1605983827084,
+        "val": 11
+    },
+    "system.adapter.admin.0.plugins.sentry.enabled": {
+        "ack": true,
+        "from": "system.adapter.admin.0.plugins.sentry",
+        "lc": 1605905329355,
+        "q": 0,
+        "ts": 1605905329355,
+        "val": true
+    },
+    "system.adapter.admin.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327501,
+        "q": 0,
+        "ts": 1605905327501,
+        "val": 5178
+    },
+    "system.adapter.admin.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.admin.0",
+        "lc": 1605983827083,
+        "q": 0,
+        "ts": 1605983827083,
+        "val": 78500
+    },
+    "system.adapter.discovery.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605905333021,
+        "q": 0,
+        "ts": 1605983815761,
+        "val": true
+    },
+    "system.adapter.discovery.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605905333023,
+        "q": 0,
+        "ts": 1605905333023,
+        "val": false
+    },
+    "system.adapter.discovery.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605905333021,
+        "q": 0,
+        "ts": 1605983815761,
+        "val": true
+    },
+    "system.adapter.discovery.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983800772,
+        "q": 0,
+        "ts": 1605983815772,
+        "val": 0.13
+    },
+    "system.adapter.discovery.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983815772,
+        "q": 0,
+        "ts": 1605983815772,
+        "val": 87.31
+    },
+    "system.adapter.discovery.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983695758,
+        "q": 0,
+        "ts": 1605983815763,
+        "val": 2
+    },
+    "system.adapter.discovery.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605974950422,
+        "q": 0,
+        "ts": 1605983815764,
+        "val": 0
+    },
+    "system.adapter.discovery.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605905333021,
+        "q": 0,
+        "ts": 1605905333021,
+        "val": "info"
+    },
+    "system.adapter.discovery.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605932588873,
+        "q": 0,
+        "ts": 1605983815762,
+        "val": 15.32
+    },
+    "system.adapter.discovery.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983815763,
+        "q": 0,
+        "ts": 1605983815763,
+        "val": 12.31
+    },
+    "system.adapter.discovery.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983770759,
+        "q": 0,
+        "ts": 1605983815762,
+        "val": 48.06
+    },
+    "system.adapter.discovery.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605905363006,
+        "q": 0,
+        "ts": 1605983815765,
+        "val": 11
+    },
+    "system.adapter.discovery.0.plugins.sentry.enabled": {
+        "ack": true,
+        "from": "system.adapter.discovery.0.plugins.sentry",
+        "lc": 1605905332977,
+        "q": 0,
+        "ts": 1605905332977,
+        "val": true
+    },
+    "system.adapter.discovery.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905331499,
+        "q": 0,
+        "ts": 1605905331499,
+        "val": 5193
+    },
+    "system.adapter.discovery.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.discovery.0",
+        "lc": 1605983815763,
+        "q": 0,
+        "ts": 1605983815763,
+        "val": 78484
+    },
+    "system.adapter.find-my-iphone.0.alive": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605920981113,
+        "q": 0,
+        "ts": 1605983801936,
+        "val": false
+    },
+    "system.adapter.find-my-iphone.0.connected": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605920981113,
+        "q": 0,
+        "ts": 1605983801936,
+        "val": false
+    },
+    "system.adapter.find-my-iphone.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983801343,
+        "q": 0,
+        "ts": 1605983801343,
+        "val": 30734
+    },
+    "system.adapter.info.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905338372,
+        "q": 0,
+        "ts": 1605983821507,
+        "val": true
+    },
+    "system.adapter.info.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905338373,
+        "q": 0,
+        "ts": 1605905338373,
+        "val": false
+    },
+    "system.adapter.info.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905338372,
+        "q": 0,
+        "ts": 1605983821507,
+        "val": true
+    },
+    "system.adapter.info.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983806514,
+        "q": 0,
+        "ts": 1605983821510,
+        "val": 0.13
+    },
+    "system.adapter.info.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983821512,
+        "q": 0,
+        "ts": 1605983821512,
+        "val": 106.95
+    },
+    "system.adapter.info.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983821509,
+        "q": 0,
+        "ts": 1605983821509,
+        "val": 2
+    },
+    "system.adapter.info.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605974941149,
+        "q": 0,
+        "ts": 1605983821509,
+        "val": 0
+    },
+    "system.adapter.info.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605905338371,
+        "q": 0,
+        "ts": 1605905338371,
+        "val": "info"
+    },
+    "system.adapter.info.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605982741465,
+        "q": 0,
+        "ts": 1605983821508,
+        "val": 28.82
+    },
+    "system.adapter.info.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983821508,
+        "q": 0,
+        "ts": 1605983821508,
+        "val": 18.86
+    },
+    "system.adapter.info.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983821508,
+        "q": 0,
+        "ts": 1605983821508,
+        "val": 66.93
+    },
+    "system.adapter.info.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605982756468,
+        "q": 0,
+        "ts": 1605983821509,
+        "val": 11
+    },
+    "system.adapter.info.0.plugins.sentry.enabled": {
+        "ack": true,
+        "from": "system.adapter.info.0.plugins.sentry",
+        "lc": 1605905338329,
+        "q": 0,
+        "ts": 1605905338329,
+        "val": true
+    },
+    "system.adapter.info.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905335500,
+        "q": 0,
+        "ts": 1605905335500,
+        "val": 5208
+    },
+    "system.adapter.info.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.info.0",
+        "lc": 1605983821509,
+        "q": 0,
+        "ts": 1605983821509,
+        "val": 78486
+    },
+    "system.adapter.mihome.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976058037,
+        "q": 0,
+        "ts": 1605983828273,
+        "val": true
+    },
+    "system.adapter.mihome.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976058040,
+        "q": 0,
+        "ts": 1605976058040,
+        "val": false
+    },
+    "system.adapter.mihome.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976058038,
+        "q": 0,
+        "ts": 1605983828274,
+        "val": true
+    },
+    "system.adapter.mihome.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983828283,
+        "q": 0,
+        "ts": 1605983828283,
+        "val": 0.13
+    },
+    "system.adapter.mihome.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983828284,
+        "q": 0,
+        "ts": 1605983828284,
+        "val": 13.58
+    },
+    "system.adapter.mihome.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983828276,
+        "q": 0,
+        "ts": 1605983828276,
+        "val": 1
+    },
+    "system.adapter.mihome.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976088010,
+        "q": 0,
+        "ts": 1605983828277,
+        "val": 0
+    },
+    "system.adapter.mihome.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976058035,
+        "q": 0,
+        "ts": 1605976058035,
+        "val": "info"
+    },
+    "system.adapter.mihome.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605978083076,
+        "q": 0,
+        "ts": 1605983828275,
+        "val": 13.82
+    },
+    "system.adapter.mihome.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983828275,
+        "q": 0,
+        "ts": 1605983828275,
+        "val": 10.6
+    },
+    "system.adapter.mihome.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983813275,
+        "q": 0,
+        "ts": 1605983828274,
+        "val": 41.91
+    },
+    "system.adapter.mihome.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605976088010,
+        "q": 0,
+        "ts": 1605983828277,
+        "val": 11
+    },
+    "system.adapter.mihome.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605976056668,
+        "q": 0,
+        "ts": 1605976056668,
+        "val": 28135
+    },
+    "system.adapter.mihome.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.mihome.0",
+        "lc": 1605983828276,
+        "q": 0,
+        "ts": 1605983828276,
+        "val": 7772
+    },
+    "system.adapter.whatsapp-cmb.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605921112489,
+        "q": 0,
+        "ts": 1605983829664,
+        "val": true
+    },
+    "system.adapter.whatsapp-cmb.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605921112491,
+        "q": 0,
+        "ts": 1605921112491,
+        "val": false
+    },
+    "system.adapter.whatsapp-cmb.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605921112489,
+        "q": 0,
+        "ts": 1605983829665,
+        "val": true
+    },
+    "system.adapter.whatsapp-cmb.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983829672,
+        "q": 0,
+        "ts": 1605983829672,
+        "val": 0.07
+    },
+    "system.adapter.whatsapp-cmb.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983829673,
+        "q": 0,
+        "ts": 1605983829673,
+        "val": 72.04
+    },
+    "system.adapter.whatsapp-cmb.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983634667,
+        "q": 0,
+        "ts": 1605983829668,
+        "val": 2
+    },
+    "system.adapter.whatsapp-cmb.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605974949303,
+        "q": 0,
+        "ts": 1605983829668,
+        "val": 0
+    },
+    "system.adapter.whatsapp-cmb.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605921112486,
+        "q": 0,
+        "ts": 1605921112486,
+        "val": "info"
+    },
+    "system.adapter.whatsapp-cmb.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605923617552,
+        "q": 0,
+        "ts": 1605983829665,
+        "val": 16.82
+    },
+    "system.adapter.whatsapp-cmb.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983829667,
+        "q": 0,
+        "ts": 1605983829667,
+        "val": 13.65
+    },
+    "system.adapter.whatsapp-cmb.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983829665,
+        "q": 0,
+        "ts": 1605983829665,
+        "val": 48.26
+    },
+    "system.adapter.whatsapp-cmb.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605921142466,
+        "q": 0,
+        "ts": 1605983829668,
+        "val": 11
+    },
+    "system.adapter.whatsapp-cmb.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605921110872,
+        "q": 0,
+        "ts": 1605921110872,
+        "val": 8506
+    },
+    "system.adapter.whatsapp-cmb.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.whatsapp-cmb.0",
+        "lc": 1605983829668,
+        "q": 0,
+        "ts": 1605983829668,
+        "val": 62719
+    },
+    "system.adapter.zigbee.0.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920833465,
+        "q": 0,
+        "ts": 1605983820476,
+        "val": true
+    },
+    "system.adapter.zigbee.0.compactMode": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605905746031,
+        "q": 0,
+        "ts": 1605920833469,
+        "val": false
+    },
+    "system.adapter.zigbee.0.connected": {
+        "ack": true,
+        "expire": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920833466,
+        "q": 0,
+        "ts": 1605983820477,
+        "val": true
+    },
+    "system.adapter.zigbee.0.cpu": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983805495,
+        "q": 0,
+        "ts": 1605983820479,
+        "val": 0.07
+    },
+    "system.adapter.zigbee.0.cputime": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983820479,
+        "q": 0,
+        "ts": 1605983820479,
+        "val": 97.92
+    },
+    "system.adapter.zigbee.0.eventLoopLag": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983685471,
+        "q": 0,
+        "ts": 1605983820478,
+        "val": 2
+    },
+    "system.adapter.zigbee.0.inputCount": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983685472,
+        "q": 0,
+        "ts": 1605983820478,
+        "val": 0
+    },
+    "system.adapter.zigbee.0.logLevel": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605905746023,
+        "q": 0,
+        "ts": 1605920833461,
+        "val": "info"
+    },
+    "system.adapter.zigbee.0.memHeapTotal": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605974325122,
+        "q": 0,
+        "ts": 1605983820477,
+        "val": 23.71
+    },
+    "system.adapter.zigbee.0.memHeapUsed": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983820477,
+        "q": 0,
+        "ts": 1605983820477,
+        "val": 20.54
+    },
+    "system.adapter.zigbee.0.memRss": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983775472,
+        "q": 0,
+        "ts": 1605983820477,
+        "val": 56.91
+    },
+    "system.adapter.zigbee.0.outputCount": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983685472,
+        "q": 0,
+        "ts": 1605983820479,
+        "val": 11
+    },
+    "system.adapter.zigbee.0.sigKill": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605920831701,
+        "q": 0,
+        "ts": 1605920831701,
+        "val": 8360
+    },
+    "system.adapter.zigbee.0.uptime": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983820478,
+        "q": 0,
+        "ts": 1605983820478,
+        "val": 62989
+    },
+    "system.host.raspberrypi.alive": {
+        "ack": true,
+        "expire": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327102,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": true
+    },
+    "system.host.raspberrypi.compactModeEnabled": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327099,
+        "q": 0,
+        "ts": 1605905327099,
+        "val": false
+    },
+    "system.host.raspberrypi.compactgroupProcesses": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327139,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 0
+    },
+    "system.host.raspberrypi.cpu": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983814767,
+        "q": 0,
+        "ts": 1605983814767,
+        "val": 1.47
+    },
+    "system.host.raspberrypi.cputime": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983814768,
+        "q": 0,
+        "ts": 1605983814768,
+        "val": 810.39
+    },
+    "system.host.raspberrypi.diskFree": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605982149671,
+        "q": 0,
+        "ts": 1605983649757,
+        "val": 20515
+    },
+    "system.host.raspberrypi.diskSize": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327162,
+        "q": 0,
+        "ts": 1605983649757,
+        "val": 29640
+    },
+    "system.host.raspberrypi.eventLoopLag": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 2
+    },
+    "system.host.raspberrypi.freemem": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983814760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 2268
+    },
+    "system.host.raspberrypi.inputCount": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 6
+    },
+    "system.host.raspberrypi.instancesAsCompact": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327140,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 0
+    },
+    "system.host.raspberrypi.instancesAsProcess": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983724760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 6
+    },
+    "system.host.raspberrypi.load": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983814760,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 0
+    },
+    "system.host.raspberrypi.logLevel": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605905327148,
+        "q": 0,
+        "ts": 1605905327148,
+        "val": "info"
+    },
+    "system.host.raspberrypi.mem": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983799760,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 59.2
+    },
+    "system.host.raspberrypi.memAvailable": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 3177
+    },
+    "system.host.raspberrypi.memHeapTotal": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983799759,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 31.54
+    },
+    "system.host.raspberrypi.memHeapUsed": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829759,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 24.25
+    },
+    "system.host.raspberrypi.memRss": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829759,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 73.15
+    },
+    "system.host.raspberrypi.outputCount": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829760,
+        "q": 0,
+        "ts": 1605983829760,
+        "val": 13
+    },
+    "system.host.raspberrypi.plugins.sentry.enabled": {
+        "ack": true,
+        "from": "system.host.raspberrypi.plugins.sentry",
+        "lc": 1605905327428,
+        "q": 0,
+        "ts": 1605905327428,
+        "val": true
+    },
+    "system.host.raspberrypi.uptime": {
+        "ack": true,
+        "from": "system.host.raspberrypi",
+        "lc": 1605983829759,
+        "q": 0,
+        "ts": 1605983829759,
+        "val": 78504
+    },
+    "zigbee.0.00158d00044cbb5d.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605924211369,
+        "q": 0,
+        "ts": 1605924211369,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d00044cbb5d.no_motion": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605926036380,
+        "q": 0,
+        "ts": 1605926036380,
+        "user": "system.user.admin",
+        "val": 1810
+    },
+    "zigbee.0.00158d00044cbb5d.occupancy": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605924286239,
+        "q": 0,
+        "ts": 1605924286239,
+        "user": "system.user.admin",
+        "val": false
+    },
+    "zigbee.0.00158d00045cee2f.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920835689,
+        "q": 0,
+        "ts": 1605920836651,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d00045cee2f.battery": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605911958158,
+        "q": 0,
+        "ts": 1605982858966,
+        "user": "system.user.admin",
+        "val": 100
+    },
+    "zigbee.0.00158d00045cee2f.contact": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605979842507,
+        "q": 0,
+        "ts": 1605982858967,
+        "user": "system.user.admin",
+        "val": false
+    },
+    "zigbee.0.00158d00045cee2f.link_quality": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605982858924,
+        "q": 0,
+        "ts": 1605982858924,
+        "user": "system.user.admin",
+        "val": 110
+    },
+    "zigbee.0.00158d00045cee2f.opened": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605979842507,
+        "q": 0,
+        "ts": 1605982858967,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d00045cee2f.voltage": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605911958110,
+        "q": 0,
+        "ts": 1605982858966,
+        "user": "system.user.admin",
+        "val": 3.045
+    },
+    "zigbee.0.00158d0005475ad0.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920835690,
+        "q": 0,
+        "ts": 1605920836653,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d0005475ad0.battery": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605909400566,
+        "q": 0,
+        "ts": 1605983115423,
+        "user": "system.user.admin",
+        "val": 100
+    },
+    "zigbee.0.00158d0005475ad0.humidity": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983115423,
+        "q": 0,
+        "ts": 1605983115423,
+        "user": "system.user.admin",
+        "val": 55.12
+    },
+    "zigbee.0.00158d0005475ad0.link_quality": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983115421,
+        "q": 0,
+        "ts": 1605983115421,
+        "user": "system.user.admin",
+        "val": 55
+    },
+    "zigbee.0.00158d0005475ad0.pressure": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983115434,
+        "q": 0,
+        "ts": 1605983115434,
+        "user": "system.user.admin",
+        "val": 929.4
+    },
+    "zigbee.0.00158d0005475ad0.temperature": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983115423,
+        "q": 0,
+        "ts": 1605983115423,
+        "user": "system.user.admin",
+        "val": 2.11
+    },
+    "zigbee.0.00158d0005475ad0.voltage": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983115422,
+        "q": 0,
+        "ts": 1605983115422,
+        "user": "system.user.admin",
+        "val": 3.015
+    },
+    "zigbee.0.00158d000548a616.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920835686,
+        "q": 0,
+        "ts": 1605920836639,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d000548a616.battery": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605909283477,
+        "q": 0,
+        "ts": 1605983665163,
+        "user": "system.user.admin",
+        "val": 100
+    },
+    "zigbee.0.00158d000548a616.humidity": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983665164,
+        "q": 0,
+        "ts": 1605983665164,
+        "user": "system.user.admin",
+        "val": 59.49
+    },
+    "zigbee.0.00158d000548a616.link_quality": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983665163,
+        "q": 0,
+        "ts": 1605983665163,
+        "user": "system.user.admin",
+        "val": 89
+    },
+    "zigbee.0.00158d000548a616.pressure": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605980408711,
+        "q": 0,
+        "ts": 1605983665165,
+        "user": "system.user.admin",
+        "val": 927.5
+    },
+    "zigbee.0.00158d000548a616.temperature": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983665164,
+        "q": 0,
+        "ts": 1605983665164,
+        "user": "system.user.admin",
+        "val": 23.41
+    },
+    "zigbee.0.00158d000548a616.voltage": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983665163,
+        "q": 0,
+        "ts": 1605983665163,
+        "user": "system.user.admin",
+        "val": 3.135
+    },
+    "zigbee.0.00158d000578a974.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920835690,
+        "q": 0,
+        "ts": 1605920836657,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.00158d000578a974.battery": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605909396635,
+        "q": 0,
+        "ts": 1605981670488,
+        "user": "system.user.admin",
+        "val": 100
+    },
+    "zigbee.0.00158d000578a974.humidity": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605981670489,
+        "q": 0,
+        "ts": 1605981670489,
+        "user": "system.user.admin",
+        "val": 73.55
+    },
+    "zigbee.0.00158d000578a974.link_quality": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605981670487,
+        "q": 0,
+        "ts": 1605981670487,
+        "user": "system.user.admin",
+        "val": 73
+    },
+    "zigbee.0.00158d000578a974.pressure": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605981670500,
+        "q": 0,
+        "ts": 1605981670500,
+        "user": "system.user.admin",
+        "val": 928.1
+    },
+    "zigbee.0.00158d000578a974.temperature": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605981670489,
+        "q": 0,
+        "ts": 1605981670489,
+        "user": "system.user.admin",
+        "val": 21.32
+    },
+    "zigbee.0.00158d000578a974.voltage": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605981670488,
+        "q": 0,
+        "ts": 1605981670488,
+        "user": "system.user.admin",
+        "val": 3.055
+    },
+    "zigbee.0.7cb03eaa0a09a6c9.available": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605923800009,
+        "q": 0,
+        "ts": 1605923800009,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.7cb03eaa0a09a6c9.link_quality": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605983242645,
+        "q": 0,
+        "ts": 1605983542714,
+        "user": "system.user.admin",
+        "val": 60
+    },
+    "zigbee.0.7cb03eaa0a09a6c9.state": {
+        "ack": true,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605966705062,
+        "q": 0,
+        "ts": 1605981079222,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.info.connection": {
+        "ack": false,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605920835670,
+        "q": 0,
+        "ts": 1605920835670,
+        "user": "system.user.admin",
+        "val": true
+    },
+    "zigbee.0.info.groups": {
+        "ack": true,
+        "from": "system.host.raspberrypi.cli",
+        "lc": 1605905740877,
+        "q": 0,
+        "ts": 1605905740877,
+        "val": ""
+    },
+    "zigbee.0.info.pairingCountdown": {
+        "ack": false,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605924328259,
+        "q": 0,
+        "ts": 1605924328259,
+        "user": "system.user.admin",
+        "val": 0
+    },
+    "zigbee.0.info.pairingMessage": {
+        "ack": false,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605924328260,
+        "q": 0,
+        "ts": 1605924328260,
+        "user": "system.user.admin",
+        "val": "Pairing time left"
+    },
+    "zigbee.0.info.pairingMode": {
+        "ack": false,
+        "from": "system.adapter.zigbee.0",
+        "lc": 1605905740965,
+        "q": 0,
+        "ts": 1605924328260,
+        "user": "system.user.admin",
+        "val": false
+    }
+}
